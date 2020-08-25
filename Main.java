@@ -8,10 +8,11 @@ class Main {
   }
    
   public static char getThirdLetterOfAlphabet() { 
+    return 99;
   }
   
   public static String rememberQuoting() {
-      return "";
+      return "I remember \"quoting\" from last year!";
   }
    
 }
